@@ -12,12 +12,24 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES PREMIUM",Sk1_SPORTS BUNDESLIGA
+#EXTINF:-1 group-title="DEPORTES PREMIUM",Fox Sport
 http://185.56.109.251/FoxSport/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PREMIUM",Fox Sport 2
 http://185.56.109.251/FoxSport2/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PREMIUM",Fox Sport 3
 http://185.56.109.251/FoxSport3/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PREMIUM",Universal Channel
 http://185.56.109.251/UniversalChannel/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PREMIUM",Warner
 http://185.56.109.251/warner/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PREMIUM",AyE
 http://185.56.109.253/AyE/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PREMIUM",AXN
 http://185.56.109.253/Axn/playlist.m3u8
 
