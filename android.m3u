@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sp0rts L4 L1g4"
+#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sp0rts L4 L1g4", Sky
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Sk1 Sports Bundesliga",Sk1 Sports Bundesliga
 http://190.92.10.66:4000/play/a006/index.m3u8
@@ -17,3 +17,5 @@ http://185.56.109.251/warner/playlist.m3u8
 http://185.56.109.253/AyE/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="AXN",AXN
 http://185.56.109.253/Axn/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="BandaMax",Banda Max
+http://185.56.109.253/Bandamax/playlist.m3u8
