@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sp0rts L4 L1g4",Sk1 Sports La Liga
+#EXTINF:-1 group-title="TV",Sk1 Sports La Liga
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sp0rts Bundeslig4",Sk1 Sports Bundesliga
+#EXTINF:-1 group-title="TV",Sk1 Sports Bundesliga
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="Fox Sport",Fox Sport
+#EXTINF:-1 group-title="TV",Fox Sport
 http://185.56.109.251/FoxSport/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="Fox Sport 2",Fox Sport 2
+#EXTINF:-1 group-title="TV",Fox Sport 2
 http://185.56.109.251/FoxSport2/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="Fox Sport 3",Fox Sport 3
+#EXTINF:-1 group-title="TV",Fox Sport 3
 http://185.56.109.251/FoxSport3/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="Universal Channel",Universal Channel
-http://185.56.109.251/UniversalChannel/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="Warner",Warner
-http://185.56.109.251/warner/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="A&E",A&E
+#EXTINF:-1 group-title="TV",A&E
 http://185.56.109.253/AyE/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="AXN",AXN
+#EXTINF:-1 group-title="TV",AXN
 http://185.56.109.253/Axn/playlist.m3u8
