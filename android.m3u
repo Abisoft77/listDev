@@ -1,21 +1,63 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sp0rts L4 L1g4", Sky
+#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sports La Liga",Sk1 Sp0rts L4 L1g4
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sports Bundesliga",Sk1 Sports Bundesliga
+#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sports Bundesliga",Sk1 Sp0rts Bundesl1g4
 http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Tudn",Tudn
+http://185.56.109.251/Tudn/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Fox Sport",Fox Sport
 http://185.56.109.251/FoxSport/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Fox Sport 2",Fox Sport 2
 http://185.56.109.251/FoxSport2/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Fox Sport 3",Fox Sport 3
 http://185.56.109.251/FoxSport3/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="Universal Channel",Universal Channel
-http://185.56.109.251/UniversalChannel/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="Warner",Warner
-http://185.56.109.251/warner/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="A&E",A&E
 http://185.56.109.253/AyE/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="AXN",AXN
 http://185.56.109.253/Axn/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="BandaMax",Banda Max
+#EXTINF:-1 group-title="TV" tvg-name="Bandamax",Bandamax
 http://185.56.109.253/Bandamax/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Telehit",Telehit
+http://185.56.109.253/Telehit/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Telehit Musica",Telehit Musica
+http://185.56.109.253/TelehitMusica/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="BitMe",BitMe
+http://185.56.109.253/BitMe/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Canal 5",Canal 5
+http://185.56.109.253/Canal5/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Canal de las Estrellas",Canal de las Estrellas
+http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="De Pelicula",De Pelicula
+http://185.56.109.253/DePelicula/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Distrito Comedia",Distrito Comedia
+http://185.56.109.253/DistritoComedia/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Golden",Golden
+http://185.56.109.253/Golden/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Once",Once
+http://185.56.109.253/Once/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="History",History
+http://185.56.109.253/History/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Lifetime",Lifetime
+http://185.56.109.253/LifeTime/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="History 2",History 2
+http://185.56.109.253/History2/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Sony Movies",Sony Movies
+http://185.56.109.253/SonyMovies/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Sony",Sony
+http://185.56.109.253/Sony/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Edge",Edge
+http://185.56.109.253/Edge/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Unicable",Unicable
+http://185.56.109.253/Unicable/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="TLC",TLC
+http://185.56.109.253/Tlc/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="TL Novelas",TL Novelas
+http://185.56.109.253/TlNovelas/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Aprende TV",Aprende TV
+http://185.56.109.253/AprendeTv/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Canal 10 Cancun",Canal 10 Cancun
+http://185.56.109.251/Canal10Cancun/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Foro TV",Foro TV
+http://185.56.109.253/ForoTv/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="Guatevision",Guatevision
+http://185.56.109.253/Guatevision/playlist.m3u8
