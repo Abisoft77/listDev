@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sports La Liga",Sk1 Sp0rts L4 L1g4
+#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sp0rts L4 L1g4",Sk1 Sp0rts L4 L1g4
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sports Bundesliga",Sk1 Sp0rts Bundesl1g4
+#EXTINF:-1 group-title="TV" tvg-name="Sk1 Sp0rts Bund3sl1g4",Sk1 Sp0rts Bund3sl1g4
 http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Tudn",Tudn
 http://185.56.109.251/Tudn/playlist.m3u8
