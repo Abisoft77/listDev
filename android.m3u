@@ -25,6 +25,12 @@ http://45.5.119.43:4000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN HD
 http://45.5.119.43:4000/play/a052/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | MO3I$T@R L@ LIG@" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIG@ ESP@ÑOL@",LA LIGA | MO3I$T@R L@ LIG@
+http://liontv.es:8080/8986/3773/501557
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | MO3I$T@R PLUS" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIG@ ESP@ÑOL@",LA LIGA | MO3I$T@R PLUS
+http://liontv.es:8080/8986/3773/496944
+
 
 #EXTINF:-1 group-title="TV" tvg-name="A&E",A&E
 http://185.56.109.253/AyE/playlist.m3u8
