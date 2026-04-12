@@ -12,27 +12,18 @@ http://185.56.109.251/FoxSport2/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Fox Sport 3",Fox Sport 3
 http://185.56.109.251/FoxSport3/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-name="3SPN 2",3SPN 2
-http://rlatinop.com:8880/kH8yyEfdj4Jf/cafM6hDmpWwT/428654
-
-#EXTINF:-1 tvg-id="lch2297" tvg-name="PE | ESPN 2 HD" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ DEPORTE PERÚ",PE | ESPN 2 HD
-http://rlatinop.com:8880/kH8yyEfdj4Jf/cafM6hDmpWwT/428655
-#EXTINF:-1 tvg-id="lch2813" tvg-name="PE*| ESPN 4 HD" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DEPORTE PERÚ",PE*| ESPN 4 HD
-http://rlatinop.com:8880/kH8yyEfdj4Jf/cafM6hDmpWwT/428657
-#EXTINF:-1 tvg-id="lch2339" tvg-name="PE*| ESPN 5 HD" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="⭐️ DEPORTE PERÚ",PE*| ESPN 5 HD
-http://rlatinop.com:8880/kH8yyEfdj4Jf/cafM6hDmpWwT/428658
-#EXTINF:-1 tvg-id="lch2341" tvg-name="PE*| ESPN 6 HD" tvg-logo="" group-title="⭐️ DEPORTE PERÚ",PE*| ESPN 6 HD
-http://rlatinop.com:8880/kH8yyEfdj4Jf/cafM6hDmpWwT/428659
-#EXTINF:-1 tvg-id="lch2340" tvg-name="PE*| ESPN 7 HD" tvg-logo="" group-title="⭐️ DEPORTE PERÚ",PE*| ESPN 7 HD
-http://rlatinop.com:8880/kH8yyEfdj4Jf/cafM6hDmpWwT/428660
-#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ DEPORTE PERÚ",PE | FOX SPORTS 1
-http://rlatinop.com:8880/kH8yyEfdj4Jf/cafM6hDmpWwT/428662
-#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DEPORTE PERÚ",PE | FOX SPORTS 2
-http://rlatinop.com:8880/kH8yyEfdj4Jf/cafM6hDmpWwT/428663
-#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DEPORTE PERÚ",PE | FOX SPORTS 3
-http://rlatinop.com:8880/kH8yyEfdj4Jf/cafM6hDmpWwT/428664
-#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DEPORTE PERÚ",PE | FOX SPORTS PREMIUM
-http://rlatinop.com:8880/kH8yyEfdj4Jf/cafM6hDmpWwT/428665
+#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Claro Sports  HD
+http://45.5.119.43:4000/play/a0kz/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN 2 HD
+http://45.5.119.43:4000/play/a053/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN 3 HD
+http://45.5.119.43:4000/play/a054/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN 5 HD
+http://45.5.119.43:4000/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN 6 HD
+http://45.5.119.43:4000/play/a0kj/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN HD
+http://45.5.119.43:4000/play/a052/index.m3u8
 
 
 #EXTINF:-1 group-title="TV" tvg-name="A&E",A&E
