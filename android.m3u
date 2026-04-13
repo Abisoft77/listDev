@@ -12,27 +12,46 @@ http://185.56.109.251/FoxSport2/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Fox Sport 3",Fox Sport 3
 http://185.56.109.251/FoxSport3/playlist.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Claro Sports  HD
+#EXTINF:-1 group-title="TV", Claro Sports  HD
 http://45.5.119.43:4000/play/a0kz/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN 2 HD
+#EXTINF:-1 group-title="TV", ESPN 2 HD
 http://45.5.119.43:4000/play/a053/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN 3 HD
+#EXTINF:-1 group-title="TV", ESPN 3 HD
 http://45.5.119.43:4000/play/a054/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN 5 HD
+#EXTINF:-1 group-title="TV3", ESPN 5 HD
 http://45.5.119.43:4000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN 6 HD
+#EXTINF:-1 group-title="TV3", ESPN 6 HD
 http://45.5.119.43:4000/play/a0kj/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", ESPN HD
+#EXTINF:-1 group-title="TV3", ESPN HD
 http://45.5.119.43:4000/play/a052/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | MO3I$T@R L@ LIG@" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIG@ ESP@ÑOL@",LA LIGA | MO3I$T@R L@ LIG@
-http://liontv.es:8080/8986/3773/501557
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TIGO GT
+http://45.5.119.43:4000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TL NOVELAS
+http://45.5.119.43:4000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TN 23
+http://45.5.119.43:4000/play/a025/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TUDN
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CANAL 27
+http://45.5.119.43:4000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CINECANAL HD
+http://45.5.119.43:4000/play/a0hq/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CNN EspaÃ±ol
+http://45.5.119.43:4000/play/a0gi/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Claro Sports  HD
+http://45.5.119.43:4000/play/a0kz/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 2 HD
+http://45.5.119.43:4000/play/a053/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 3 HD
+http://45.5.119.43:4000/play/a054/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 5 HD
+http://45.5.119.43:4000/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 6 HD
+http://45.5.119.43:4000/play/a0kj/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN HD
+http://45.5.119.43:4000/play/a052/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA | MO3I$T@R PLUS" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.25%20PM.jpeg" group-title="⚽ LIG@ ESP@ÑOL@",LA LIGA | MO3I$T@R PLUS
-http://liontv.es:8080/8986/3773/496944
-
-#EXTINF:-1 tvg-id="" tvg-name="Embestida (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adk8weka3O5648g3de4z3y4aE7G.jpg" group-title="▶️ ESTRENOS 2026",Embestida (2026)
-http://liontv.es:8080/movie/8986/3773/1943750.mkv
 
 
 #EXTINF:-1 group-title="TV" tvg-name="A&E",A&E
