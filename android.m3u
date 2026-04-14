@@ -12,8 +12,7 @@ http://185.56.109.251/FoxSport2/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Fox Sport 3",Fox Sport 3
 http://185.56.109.251/FoxSport3/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-name="Fox Sport 4",Fox Sport 4
-http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167215
+
 
 #EXTINF:-1 group-title="TV", Claro Sports  HD
 http://45.5.119.43:4000/play/a0kz/index.m3u8
@@ -56,6 +55,27 @@ http://45.5.119.43:4000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN HD
 http://45.5.119.43:4000/play/a052/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD." tvg-logo="https://i.ibb.co/nwQVch5/Sin-t-tulo-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",BEIN SPORT HD.
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167195
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT USA" tvg-logo="https://i.ibb.co/nwQVch5/Sin-t-tulo-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",BEIN SPORT USA
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167196
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS HD*." tvg-logo="https://i.ibb.co/cLk91MN/Sin-t-tulo-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",CLARO SPORTS HD*.
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167198
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT HD 1 [CO]" tvg-logo="http://fanc.tmsimg.com/assets/s109752_h3_aa.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",DIRECTV SPORT HD 1 [CO]
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167205
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT PLUS HD (ᴀʀɢ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",DIRECTV SPORT PLUS HD (ᴀʀɢ)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167206
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT HD 1 (ᴀʀɢ)" tvg-logo="https://i.ibb.co/y0ZnwXH/Sin-t-tulo-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",DIRECTV SPORT HD 1 (ᴀʀɢ)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167208
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD (ᴀʀɢ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",DIRECTV SPORTS 2 HD (ᴀʀɢ)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167209
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 1 HD PELEAS" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/02/TAVI_DirecTVSportsFight-lanzamiento.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",DIRECTV SPORT 1 HD PELEAS
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167210
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS  HD .." tvg-logo="https://i.imgur.com/bBcFkZB.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",TIGO SPORTS  HD ..
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167213
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD*" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",ESPN 1 HD*
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167214
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 ᴀʀɢ" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",ESPN 1 ᴀʀɢ
 http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167215
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1HD  (CHILE)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",ESPN 1HD  (CHILE)
@@ -66,7 +86,84 @@ http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167217
 http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167218
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (ARG) HD (E)" tvg-logo="http://fanc.tmsimg.com/assets/s73833_ll_h3_aa.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",ESPN 3 (ARG) HD (E)
 http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167220
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD*" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",ESPN 3 HD*
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167221
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD *" tvg-logo="https://tv.faster.net.br/logos/ESPN4.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",ESPN 4 HD *
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167224
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD*" tvg-logo="http://fanc.tmsimg.com/assets/s65930_ll_h3_ad.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",ESPN EXTRA HD*
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167225
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT SUR 1 (ᴀʀɢ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",FOX SPORT SUR 1 (ᴀʀɢ)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167227
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT SUR 2 (ᴀʀɢ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",FOX SPORT SUR 2 (ᴀʀɢ)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167228
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT SUR 3 (ᴀʀɢ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",FOX SPORT SUR 3 (ᴀʀɢ)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167229
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 HD (CHILE)" tvg-logo="http://line.rocket-tv.org:25461/images/84f21a5b39c5cd133c86fac43eec7248.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",FOX SPORTS 1 HD (CHILE)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167230
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD*" tvg-logo="https://www.kindpng.com/picc/m/748-7484701_fox-sports-2-logo-png-fox-sports-2.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",FOX SPORTS 2 HD*
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167231
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD (CHILE)" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTg0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",FOX SPORTS 2 HD (CHILE)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167232
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD" tvg-logo="https://e7.pngegg.com/pngimages/293/436/png-clipart-fox-sports-networks-fox-sports-2-fox-entertainment-group-television-others-television-emblem.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",FOX SPORTS 3 HD
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167233
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",GOL TV ECUADOR
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167236
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV HD INT." tvg-logo="http://fanc.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",GOL TV HD INT.
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167237
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sport PANAMA" tvg-logo="" group-title="⚡️DEPORTES LATINO⚽️⚡️",Tigo Sport PANAMA
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167243
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD (CL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/2560px-TNT_Sports_Chile.svg.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",TNT SPORTS 1 HD (CL)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167257
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD (ᴀʀɢ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_(2021).png" group-title="⚡️DEPORTES LATINO⚽️⚡️",TNT SPORTS HD (ᴀʀɢ)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167260
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD (ᴀʀɢ)" tvg-logo="http://sinlimitestv.com:8080/images/YyQdAYPeejf0q8rbS3LPxEv0e4WvNjcRdDTGLcoWkE-9Y5Y4M2E4QXWqJw_4KVWApof278HhG_UCTTwBh-eYtQ.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",TYC SPORTS HD (ᴀʀɢ)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167261
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s87031_ll_h3_aa.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",WIN SPORTS HD
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167263
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s87031_ll_h3_aa.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",WIN SPORTS HD
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167264
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+ HD*" tvg-logo="http://fanc.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",WIN SPORTS+ HD*
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167265
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network [USA]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/841px-WWE_Logo.svg.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",WWE Network [USA]
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167266
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",CLARO SPORT SD*
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167267
+#EXTINF:-1 tvg-id="" tvg-name="TYC sports" tvg-logo="http://fanc.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",TYC sports
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167269
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 Sur*" tvg-logo="https://tv.faster.net.br/logos/ESPN4.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",ESPN 4 Sur*
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167273
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD*" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-sports-3-hd_m.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",FOX SPORTS 3 HD*
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167275
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 Sur*" tvg-logo="http://klic.tmsimg.com/assets/s47374_ll_h15_aa.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",FOX SPORTS 3 Sur*
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167277
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",LIGA 1 MAX
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167279
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX PERU HD" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",LIGA 1 MAX PERU HD
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167280
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT PREMIUM HD (ᴍx)" tvg-logo="https://www.elfinanciero.com.mx/resizer/FVaMcuHVn2R8iI2eKcXG2VgDs3s=/1200x630/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UJFWRPVBFVGVDJ42KIDPGDXDBY.png" group-title="DEPORTES MEXICO CH",FOX SPORT PREMIUM HD (ᴍx)
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167287
 
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1." tvg-logo="http://daleplaypro.com:8080/images/48708a0880949927e4217cf46ea1364d.png" group-title="EVENTOS ESPAÑA LA LIGA⚽️",MOVISTAR LA LIGA 1.
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/179921
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD." tvg-logo="http://daleplaypro.com:8080/images/b6fa8db336e8a0957b811dcf3004e4e1.jpg" group-title="EVENTOS ESPAÑA LA LIGA⚽️",MOVISTAR LA LIGA HD.
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/179923
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA." tvg-logo="http://daleplaypro.com:8080/images/b6fa8db336e8a0957b811dcf3004e4e1.jpg" group-title="EVENTOS ESPAÑA LA LIGA⚽️",MOVISTAR  LA LIGA.
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/179924
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LA LIGA HD." tvg-logo="http://daleplaypro.com:8080/images/98e09a4f3b61804659d36bd8d908dc40.jpg" group-title="EVENTOS ESPAÑA LA LIGA⚽️",ES | DAZN LA LIGA HD.
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/179943
+#EXTINF:-1 tvg-id="" tvg-name="ES | M+LA LIGA 1 HD." tvg-logo="http://daleplaypro.com:8080/images/48708a0880949927e4217cf46ea1364d.png" group-title="EVENTOS ESPAÑA LA LIGA⚽️",ES | M+LA LIGA 1 HD.
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/179951
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS la liga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTxysXDpZyeUFIC3RGLE6esOtH980jpXRBpOPV7p3tDM2H9FhheZSddE&s=10" group-title="⚽️ESPAÑA DEPORTES⚽️",SKY SPORTS la liga
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/497857
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZIfnc_L1-OOoZI5aFrTb7c31b2ouCyJyxXgZTxQSKBx2jnqc9p__krg&s=10" group-title="⚽️ESPAÑA DEPORTES⚽️",DAZN 1 .
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/497858
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBIMRVHsV56LMp4aDcumCH8wPoW6KVFp9h8Fh8vVbl8OXvhRl80u4d7wU&s=10" group-title="⚽️ESPAÑA DEPORTES⚽️",DAZN 2
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/497859
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/1280px-DAZN_3.svg.png" group-title="⚽️ESPAÑA DEPORTES⚽️",DAZN 3
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/497860
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9C8mrWv6fVmgkBo0K_HsBhdRyRyi43qCHz9hp4PFSP7ribW_J6XTzrCHG&s=10" group-title="⚽️ESPAÑA DEPORTES⚽️",DAZN 4
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/497861
 
 #EXTINF:-1 group-title="TV" tvg-name="A&E",A&E
 http://185.56.109.253/AyE/playlist.m3u8
