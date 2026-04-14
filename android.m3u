@@ -12,47 +12,31 @@ http://185.56.109.251/FoxSport2/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="Fox Sport 3",Fox Sport 3
 http://185.56.109.251/FoxSport3/playlist.m3u8
 
-
-
-#EXTINF:-1 group-title="TV", Claro Sports  HD
-http://45.5.119.43:4000/play/a0kz/index.m3u8
-#EXTINF:-1 group-title="TV", ESPN 2 HD
-http://45.5.119.43:4000/play/a053/index.m3u8
-#EXTINF:-1 group-title="TV", ESPN 3 HD
-http://45.5.119.43:4000/play/a054/index.m3u8
-#EXTINF:-1 group-title="TV3", ESPN 5 HD
-http://45.5.119.43:4000/play/a0ix/index.m3u8
-#EXTINF:-1 group-title="TV3", ESPN 6 HD
-http://45.5.119.43:4000/play/a0kj/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-name="Espn HD",Espn HD
-http://45.5.119.43:4000/play/a052/index.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TIGO GT
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", TIGO GT
 http://45.5.119.43:4000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TL NOVELAS
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", TL NOVELAS
 http://45.5.119.43:4000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TN 23
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", TN 23
 http://45.5.119.43:4000/play/a025/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TUDN
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", TUDN
 http://45.5.119.43:4000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CANAL 27
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", CANAL 27
 http://45.5.119.43:4000/play/a05p/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CINECANAL HD
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", CINECANAL HD
 http://45.5.119.43:4000/play/a0hq/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CNN EspaÃ±ol
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", CNN EspaÃ±ol
 http://45.5.119.43:4000/play/a0gi/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Claro Sports  HD
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", Claro Sports  HD
 http://45.5.119.43:4000/play/a0kz/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 2 HD
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", ESPN 2 HD
 http://45.5.119.43:4000/play/a053/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 3 HD
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", ESPN 3 HD
 http://45.5.119.43:4000/play/a054/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 5 HD
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", ESPN 5 HD
 http://45.5.119.43:4000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 6 HD
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", ESPN 6 HD
 http://45.5.119.43:4000/play/a0kj/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN HD
+#EXTINF:-1 tvg-shift="-6"  group-title="TV", ESPN HD
 http://45.5.119.43:4000/play/a052/index.m3u8
 
 
