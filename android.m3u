@@ -40,6 +40,10 @@ http://45.5.119.43:4000/play/a0kj/index.m3u8
 http://45.5.119.43:4000/play/a052/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS LEAGUE #1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfV5it2BSPvmd5GyTdFi73Y6OeTxzATZJsUZ1OQYAPobjuxYCDRNLT0E&s=10" group-title="⭐️EVENTOS⭐️",CHAMPIONS LEAGUE #1
+http://iptvpremium.ink:55577/LJXtream13/LJXtream001/493107
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD." tvg-logo="https://i.ibb.co/nwQVch5/Sin-t-tulo-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",BEIN SPORT HD.
 http://iptvpremium.ink:55577/LJXtream13/LJXtream001/167195
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT USA" tvg-logo="https://i.ibb.co/nwQVch5/Sin-t-tulo-1.png" group-title="⚡️DEPORTES LATINO⚽️⚡️",BEIN SPORT USA
