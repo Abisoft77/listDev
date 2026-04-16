@@ -1,1 +1,247 @@
 
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Baby First
+http://45.5.119.43:4000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Boomerang
+http://45.5.119.43:4000/play/a0g0/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CARTOON NT HD
+http://45.5.119.43:4000/play/a0l0/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Discovery Kids
+http://45.5.119.43:4000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Disney JR
+http://45.5.119.43:4000/play/a0g1/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Disney channel
+http://45.5.119.43:4000/play/a0i8/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Nick 2 HD
+http://45.5.119.43:4000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Nick Jr
+http://45.5.119.43:4000/play/a0fz/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Nickelodeon HD
+http://45.5.119.43:4000/play/a0hs/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", SEMILLITAS
+http://45.5.119.43:4000/play/a0g3/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Tooncast
+http://45.5.119.43:4000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Adult Swim
+http://45.5.119.43:4000/play/a051/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Canal 11 - GUA
+http://45.5.119.43:4000/play/a0jk/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Canal 13-GUA
+http://45.5.119.43:4000/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Canal 3 - GUA
+http://45.5.119.43:4000/play/a0h5/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Canal 7 - GUA
+http://45.5.119.43:4000/play/a0h4/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Canal Antigua - GUA
+http://45.5.119.43:4000/play/a0h2/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Canal Azteca - GUA
+http://45.5.119.43:4000/play/a0h3/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Canal Guatevision - GUA
+http://45.5.119.43:4000/play/a0fw/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Concert Channel
+http://45.5.119.43:4000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Exa TV
+http://45.5.119.43:4000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", MTV
+http://45.5.119.43:4000/play/a0if/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", MTV 00s HD
+http://45.5.119.43:4000/play/a0i0/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", MTV 80s
+http://45.5.119.43:4000/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", MTV HD
+http://45.5.119.43:4000/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", MTV Hits
+http://45.5.119.43:4000/play/a0gd/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", MTV SIM HD
+
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", RHEMA TV
+http://45.5.119.43:4000/play/a0iw/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Sembrador
+http://45.5.119.43:4000/play/a0k0/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TBN Enlace
+http://45.5.119.43:4000/play/a0gj/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Claro Sports  HD
+http://45.5.119.43:4000/play/a0kz/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 2 HD
+http://45.5.119.43:4000/play/a053/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 3 HD
+http://45.5.119.43:4000/play/a054/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 5 HD
+http://45.5.119.43:4000/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN 6 HD
+http://45.5.119.43:4000/play/a0kj/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN HD
+http://45.5.119.43:4000/play/a052/index.m3u8
+
+#EXTINF:-1 group-title="Lista 5 Paraguay", FOX SPORT 2 HD
+http://181.78.27.128:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Paraguay", FOX SPORT 3 HD
+http://181.78.27.128:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Lista 5 Paraguay", FOX SPORT HD
+http://181.78.27.128:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Golf Channel HD
+http://45.5.119.43:4000/play/a0h1/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Tigo Sports HD
+http://45.5.119.43:4000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Pasiones HD
+http://45.5.119.43:4000/play/a0kq/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", RCN Novelas
+http://45.5.119.43:4000/play/a0jn/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Telemundo HD
+http://45.5.119.43:4000/play/a0gv/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Univision HD
+http://45.5.119.43:4000/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", AZ click HD
+http://45.5.119.43:4000/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Azcorazon
+http://45.5.119.43:4000/play/a0g6/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Azmundo
+http://45.5.119.43:4000/play/a0h8/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", DISCOVERY THEATHER HD
+http://45.5.119.43:4000/play/a0hv/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Discovery Channel HD
+http://45.5.119.43:4000/play/a0kn/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Discovery ID HD
+http://45.5.119.43:4000/play/a0ks/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Discovery Turbo
+http://45.5.119.43:4000/play/a0ia/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Discovery World HD
+http://45.5.119.43:4000/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", El Gourmet
+http://45.5.119.43:4000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", FX HD
+http://45.5.119.43:4000/play/a0gw/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", HBO Family HD
+http://45.5.119.43:4000/play/a0l5/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", HBO HD
+http://45.5.119.43:4000/play/a0l2/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", HBO Plus HD
+http://45.5.119.43:4000/play/a0l4/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", HBO XTREME HD
+http://45.5.119.43:4000/play/a0l6/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", HBO2 HD
+http://45.5.119.43:4000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", History 2
+http://45.5.119.43:4000/play/a0jp/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", History Channel HD
+http://45.5.119.43:4000/play/a0gk/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", SONY HD
+http://45.5.119.43:4000/play/a0hp/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", SONY MOVIES HD
+http://45.5.119.43:4000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", STAR CHANNEL HD
+http://45.5.119.43:4000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", STAR LIFE
+http://45.5.119.43:4000/play/a0g4/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Sun Channel
+http://45.5.119.43:4000/play/a050/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TNT HD
+http://45.5.119.43:4000/play/a0hu/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TNT Novelas
+http://45.5.119.43:4000/play/a0g9/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TNT Series HD
+http://45.5.119.43:4000/play/a0km/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", UNIVERSAL CINEMA HD
+http://45.5.119.43:4000/play/a0kt/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", UNIVERSAL COMEDY HD
+http://45.5.119.43:4000/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", UNIVERSAL CRIME HD
+http://45.5.119.43:4000/play/a0i4/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", UNIVERSAL PREMIERE HD
+http://45.5.119.43:4000/play/a0i1/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", UNIVERSAL PREMIERE O HD
+http://45.5.119.43:4000/play/a0i2/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", UNIVERSAL REALITY HD
+http://45.5.119.43:4000/play/a0i3/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", A&E HD
+http://45.5.119.43:4000/play/a0gt/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", AMC HD
+http://45.5.119.43:4000/play/a0gu/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", AXN HD
+http://45.5.119.43:4000/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Animal Planet HD
+http://45.5.119.43:4000/play/a0gq/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CINECANAL HD
+http://45.5.119.43:4000/play/a0hq/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CNN EspaÃ±ol
+http://45.5.119.43:4000/play/a0gi/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Canal Claro
+http://45.5.119.43:4000/play/a0fv/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Cine Latino
+http://45.5.119.43:4000/play/a0ik/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CineMax
+http://45.5.119.43:4000/play/a0il/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Comedy Central HD
+http://45.5.119.43:4000/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", DHE HD
+http://45.5.119.43:4000/play/a0gy/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", E! Entertairment HD
+http://45.5.119.43:4000/play/a0gr/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Film & arts HD
+http://45.5.119.43:4000/play/a0gs/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Golden
+http://45.5.119.43:4000/play/a0jv/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", HOLA! TV HD
+http://45.5.119.43:4000/play/a0hx/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Home & Health HD
+http://45.5.119.43:4000/play/a0hw/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", LIFE TIME
+http://45.5.119.43:4000/play/a0gb/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Multipremier
+http://45.5.119.43:4000/play/a0ij/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Nat Geo HD
+http://45.5.119.43:4000/play/a0kk/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Paramount HD
+http://45.5.119.43:4000/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", SPACE HD
+http://45.5.119.43:4000/play/a0iz/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Star TVE HD
+http://45.5.119.43:4000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TCM
+http://45.5.119.43:4000/play/a0jw/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TLC
+http://45.5.119.43:4000/play/a0hh/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TVE
+http://45.5.119.43:4000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Universal
+http://45.5.119.43:4000/play/a0ih/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", WARNER HD
+http://45.5.119.43:4000/play/a0ho/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", AZTECA 7
+http://45.5.119.43:4000/play/a026/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", BEIN SPORTS Ã‘
+http://45.5.119.43:4000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CANAL 27
+http://45.5.119.43:4000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", CANAL 5
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Cartoon Network
+http://45.5.119.43:4000/play/a029/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", Claro Sports 3 HD
+http://45.5.119.43:4000/play/a024/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", DE PELICULA
+http://45.5.119.43:4000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", DISTRITO COMEDIA
+http://45.5.119.43:4000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", ESPN  4 HD
+http://45.5.119.43:4000/play/a028/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", LAS ESTRELLAS
+http://45.5.119.43:4000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", PENIEL FAMILIAR HUEHUE
+http://45.5.119.43:4000/play/a021/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", SKY SPORTS
+http://45.5.119.43:4000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TELEMUNDO MIAMI
+http://45.5.119.43:4000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TIGO GT
+http://45.5.119.43:4000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TL NOVELAS
+http://45.5.119.43:4000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TN 23
+http://45.5.119.43:4000/play/a025/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TUDN
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", TeleMicro - RD
+http://45.5.119.43:4000/play/a027/index.m3u8
+#EXTINF:-1 tvg-shift="-6"  group-title="TV5", VEA CANAL
+http://45.5.119.43:4000/play/a05i/index.m3u8
